@@ -88,7 +88,7 @@
 
 ---
 
-# 👋 Omar Saiouf — عمر سيوف
+# 👋 Omar Saiouf — عمر سيوف (en)
 
 ### Back End Developer (Laravel) · Interested in Modern Frontend · React Learner
 
