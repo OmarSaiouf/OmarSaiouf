@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me [LinkedIn](www.linkedin.com/in/omar-saiouf) and [Telegram](https://t.me/OmarProgrammers)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/omarsaiouf) and [Telegram](https://t.me/OmarProgrammers)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Patience is the key to everything
 
