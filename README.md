@@ -1,9 +1,8 @@
 
-[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 
 
 # 👋 عمر سيوف — Omar Saiouf (ar)
-
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 ### مبرمج Back End (Laravel) · مهتم بالواجهات الحديثة
 
 ---
@@ -91,10 +90,9 @@
 * **حقيقة ممتعة:** الصبر هو مفتاح كل شيء ⚡
 
 ---
-[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 
 # 👋 Omar Saiouf — عمر سيوف (en)
-
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 ### Back End Developer (Laravel) · Interested in Modern Frontend · React Learner
 
 ---
@@ -181,10 +179,9 @@ I’m interested in collaborating on projects that require:
 * **Fun fact:** Patience is the key to everything ⚡
 
 ---
-[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 
 # 👋 Omar Saiouf — عمر سيوف (TR)
-
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 ### Back End Geliştirici (Laravel) · Modern Arayüzlere İlgi Duyan · React Öğreniyor
 
 ---
