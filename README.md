@@ -1,3 +1,7 @@
+
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
+
+
 # 👋 عمر سيوف — Omar Saiouf (ar)
 
 ### مبرمج Back End (Laravel) · مهتم بالواجهات الحديثة
@@ -87,6 +91,7 @@
 * **حقيقة ممتعة:** الصبر هو مفتاح كل شيء ⚡
 
 ---
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 
 # 👋 Omar Saiouf — عمر سيوف (en)
 
@@ -176,6 +181,7 @@ I’m interested in collaborating on projects that require:
 * **Fun fact:** Patience is the key to everything ⚡
 
 ---
+[![committers.top badge](https://user-badge.committers.top/syria_private/OmarSaiouf.svg)](https://user-badge.committers.top/syria_private/OmarSaiouf)
 
 # 👋 Omar Saiouf — عمر سيوف (TR)
 
